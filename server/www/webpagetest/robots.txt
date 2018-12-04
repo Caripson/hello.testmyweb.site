@@ -1,0 +1,5 @@
+ser-agent: *
+Disallow: /wp-admin/
+Disallow: /*.php
+Disallow: /testlog.php?*
+
